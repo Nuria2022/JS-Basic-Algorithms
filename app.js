@@ -175,7 +175,7 @@ if(number1 === 10){
 }
 
 
-if(number2 / number1 === 2) {
+if((number2 / number1) === 2) {
   console.log("number2 dividido entre number1 es igual a 2");
 }
 
